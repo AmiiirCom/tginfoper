@@ -1,0 +1,2 @@
+# tginfoper
+Telegram Info Persian
